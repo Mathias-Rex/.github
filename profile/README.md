@@ -1,4 +1,4 @@
-# Picsi Mátyás Király Utcai Általános Iskola – Informatikai Versenycsapatok
+# Pécsi Mátyás Király Utcai Általános Iskola – Informatikai Versenycsapatok
 
 A pécsi **Mátyás Király Utcai Általános Iskola** informatikai versenycsapatainak közös GitHub-szervezete.
 Ide kerülnek **évről évre** a versenyprojektek (Hack&Code, iskolai/megyei/országos fordulók), a hozzájuk tartozó **forráskódok**, **megoldások** és **oktató anyagok**.
